@@ -2,7 +2,7 @@
 
 **Backend Developer** focused on distributed systems, cloud-native architectures and scalable APIs.
 
-Currently building a multi-tenant SaaS platform integrating 5 cloud providers — working with **Node.js**, **TypeScript**, **MongoDB** and **Temporal.io** on a daily basis.
+Currently working with **Node.js**, **TypeScript**, **MongoDB** and **Temporal.io** on a daily basis.
 
 ---
 
