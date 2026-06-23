@@ -1,8 +1,8 @@
 # Hi, I'm David 👋
 
-**Senior Backend Developer** focused on distributed systems, cloud-native architectures, scalable APIs and Generative AI in production.
+**Backend Developer** focused on distributed systems, cloud-native architectures, scalable APIs and Generative AI in production.
 
-Currently working at **Quantum Database** with **Node.js**, **TypeScript**, **Python**, **Java** and **LLMs** on a daily basis.
+Currently working as a **freelance backend developer** on an NDA-covered project, using **Node.js**, **TypeScript**, **Python**, **Java** and **LLMs** on a daily basis.
 
 ---
 
@@ -22,11 +22,9 @@ Currently working at **Quantum Database** with **Node.js**, **TypeScript**, **Py
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 **AI & LLMs**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
@@ -53,9 +51,9 @@ Currently working at **Quantum Database** with **Node.js**, **TypeScript**, **Py
 
 ## 🔍 What I work on
 
-- **Generative AI in production** — RAG pipelines, AI agents with LangChain & LlamaIndex, LLM integration (Claude/Anthropic, OpenAI GPT-4o), vector embeddings and MongoDB Atlas Vector Search
+- **Generative AI in production** — RAG pipelines, LLM integration (Claude/Anthropic, OpenAI), vector embeddings and MongoDB Atlas Vector Search
 - **Distributed systems** — REST APIs, microservices and workflow orchestration with Temporal.io
-- **Multi-cloud SaaS** — multi-tenant architecture integrating AWS, Azure, GCP and OCI via native SDKs
+- **Multi-cloud integrations** — multi-tenant architecture integrating AWS, Azure, GCP and OCI via native SDKs
 - **Secure credential management** — Azure Key Vault, STS AssumeRole, AES-256-GCM, Federated Identity
 - **Authentication & authorization** — Auth0 JWT, RBAC, Spring Security, OAuth2
 
