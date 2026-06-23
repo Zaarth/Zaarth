@@ -1,8 +1,10 @@
 # Hi, I'm David 👋
 
-**Backend Developer** focused on distributed systems, cloud-native architectures, scalable APIs and Generative AI in production.
+**Backend Developer** focused on REST APIs, distributed systems and applied AI (RAG/LLMs).
 
-Currently working as a **freelance backend developer** on an NDA-covered project, using **Node.js**, **TypeScript**, **Python**, **Java** and **LLMs** on a daily basis.
+I build back-end systems with **Node.js**, **TypeScript**, **Python** and **Java**. I've worked as a freelance back-end developer on an NDA-covered SaaS platform — distributed workflow orchestration with Temporal.io, multi-cloud integrations (AWS, Azure, GCP, OCI) and RAG pipelines with vector search. I care about clean, well-tested code and solid engineering practices.
+
+📍 Brazil · open to new back-end opportunities.
 
 ---
 
@@ -51,11 +53,11 @@ Currently working as a **freelance backend developer** on an NDA-covered project
 
 ## 🔍 What I work on
 
-- **Generative AI in production** — RAG pipelines, LLM integration (Claude/Anthropic, OpenAI), vector embeddings and MongoDB Atlas Vector Search
+- **Generative AI** — RAG pipelines, LLM integration (Claude/Anthropic, OpenAI), vector embeddings and MongoDB Atlas Vector Search
 - **Distributed systems** — REST APIs, microservices and workflow orchestration with Temporal.io
 - **Multi-cloud integrations** — multi-tenant architecture integrating AWS, Azure, GCP and OCI via native SDKs
-- **Secure credential management** — Azure Key Vault, STS AssumeRole, AES-256-GCM, Federated Identity
-- **Authentication & authorization** — Auth0 JWT, RBAC, Spring Security, OAuth2
+- **Secure credential management** — Azure Key Vault and AES-256-GCM encryption
+- **Backend foundations** — Node.js, TypeScript, Python and Java, with a focus on tested, maintainable code
 
 ---
 
